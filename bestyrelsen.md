@@ -1,5 +1,6 @@
 ---
-title: Test Page
+title: Bestyrelsen
+order: 1
 layout: page
 ---
 

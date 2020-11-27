@@ -1,5 +1,6 @@
 ---
 title: Om klubben
+order: 0
 layout: page
 ---
 
@@ -9,7 +10,7 @@ Vi har i PGNord valgt at fordele de forskellige opgaver på så mange skuldre so
 
 > Ud over flyvningen lægger vi vægt på et godt klubmiljø
 
-# Aktiviteter i klubben
+## Aktiviteter i klubben
 
 Lige så snart vinden er til flyvning er der næsten altid nogen på skrænterne for at flyve. Er der for lidt vind tager vi ofte til vores optræksbane i Skivum.
 
@@ -17,7 +18,7 @@ Der arrangeres ca. 2 klubture om året til bjergområder.
 
 I den mørke tid hvor vi ikke kan flyve så længe bliver der normalt arrangeret foredrag, grejaftener mv. Noget der altid foregår i en hyggelig atmosfære og hvor klubben som regel giver en øl eller vand.
 
-# Udviklingen i den nærmeste fremtid
+## Udviklingen i den nærmeste fremtid
 
 Den primære flyvning vi fortsat vil dyrke mest i klubben er skræntflyvningen. Nordjylland er og bliver et af de bedste områder i nordeuropa til skræntflyvning
 

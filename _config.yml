@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: pgnord
 
 # Title of the Site
 title: PG Nord
@@ -13,7 +13,7 @@ description: Paraglideklubben Nordjylland
 # URL of Image of the Site
 site-image: 
 # Keywords of the Site
-site-keywords: pg,pgnord,paragliding,paragliding,nordjylland
+site-keywords: pg,pgnord,paragliding,paraglide,nordjylland
 # URL for the Image of custom Favicon
 favicon-url: /assets/images/fav.png
 
@@ -23,7 +23,7 @@ heroimage: /assets/images/pgnord_hero.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: 
-facebook_username: 
+facebook_username: 98560551349
 twitter_username: 
 instagram_username: 
 linkedin_username: 
@@ -45,9 +45,12 @@ author-name: PG Nord
 # URL for the Image of the Author
 author-image: 
 # 60 Words About the Author
-author-about: Paragliding klub der med et godt sammenhold og stærke forudsætninger skaber gode oplevelser for både nye og erfarne piloter. 
+author-about: Paragliding klub der med et godt sammenhold og stærke forudsætninger skaber gode oplevelser for både nye og erfarne piloter. Vi er en aktiv klub med ca. 50 medlemmer og dermed en af landets største klubber. Klubben faciliterer uddannelse af nye piloter, fællesture og arrangementer omkring sporten.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.facebook.com/groups/98560551349/?ref=bookmarks
+
+#contact
+contact-about: Den løbende kommunikation sker på vores facebook gruppe og tilhørende chats. Her kan du altid fange os.
 
 # SASS
 sass:
