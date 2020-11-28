@@ -44,7 +44,7 @@ layout: compress
                 target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
             </p>
-            {%- assign tags = page.tags -%}
+            <!-- {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
             <p class="subtitle is-uppercase">
               <i class="fas fa-tags"></i>
@@ -53,7 +53,7 @@ layout: compress
               <span class="tag is-link">{{page.tags[i]}}</span>
               {% assign i = i | plus:1 %}
               {% endfor %}
-            </p>
+            </p> -->
             <!--{%- endunless -%}
             {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
