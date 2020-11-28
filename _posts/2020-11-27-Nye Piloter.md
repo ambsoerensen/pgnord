@@ -15,7 +15,7 @@ tags:
 Og sandt er det at alle der vælger at bruge noget tid på at lære at flyve paraglider ikke kan undgå at blive mærket af de oplevelser det giver.
 Det er en sport man kan dyrke på det niveau man selv vælger. Lige fra den rolige turistagtige flyvning i blød stabil luft langs en dansk kystskrænt, til den mest intense termikflyvning i bjerge.
 Du får måske det bedste indtryk ved at kigge på nogle af de billeder eller filmklip, vi har lagt ind på hjemmesiden. Men oven i det kan du lægge en hel masse sanseindtryk, følelser, spænding, kammeratskab, naturoplevelser, frisk luft og meget mere.
-
+<div class="parallax-container" style="background-image:url(../assets/images/bjerg_flyvning_2.jpg)"></div>
 # Skrænt Flyvning
 
 I Danmark flyver vi meget ved kyster med høje skrænter, hvor der er pålandsvind. Når vinden kommer ind over skrænten bliver den presset opad, og dette kan vi udnytte til at holde os flyvende i timevis foran en skrænt. Ganske på samme måde som mågerne kan hænge der i timevis når vinden er rigtig.
