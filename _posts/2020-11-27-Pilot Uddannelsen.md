@@ -1,13 +1,11 @@
 ---
 title: Pilot Uddannelsen
 layout: post
-post-image: 
+post-image:
 description: Hvordan er uddannelsen struktureret.
 tags:
-- sample
-- post
-- test
-
+  - pg
+  - uddannelse
 ---
 
 Uddannelsen i paragliding er inddelt i 5 Parapro trin. Som du kan se herunder, skal du være Parapro 3, for at være færdig uddannet pilot. uddannelsen indeholder både teori og praktisk undervisning.

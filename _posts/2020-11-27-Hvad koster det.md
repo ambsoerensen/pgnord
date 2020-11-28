@@ -4,9 +4,8 @@ layout: post
 post-image:
 description: Læs om hvad du kan forvente det koster at paraglide
 tags:
-  - sample
-  - post
-  - test
+  - pg
+  - pris
 ---
 
 # Kontingent og forsikringer
@@ -38,3 +37,5 @@ Et komplet sæt nyt paragliderudstyr koster typisk 16-25.000 kr. Mange vælger d
 Det er særdeles vigtigt at rådføre sig med en instruktør, inden man investerer i udstyr, da nogle avancerede skærme eller meget gammelt udstyr, kan være direkte farligt for begyndere.
 
 Selvom udstyret kan forekomme lidt dyrt, så er det stadigvæk den letteste og billigste måde at flyve på.
+
+Her kan du læse mere om hvad for noget [udstyr](./Paragliding-udstyr) udstyr der indgår i et paragliding sæt.
