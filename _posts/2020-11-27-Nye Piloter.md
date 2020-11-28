@@ -23,10 +23,13 @@ Det er en fantastisk måde at opleve den flotte danske natur på.
 
 Nordjylland råder over nogle af nordeuropas bedste skrænter til paragliding. Den største skrænt ligger nord for Løkken og er ca. 10 km. Lang. Andre populære steder er f.eks Svinkløv, Hanstholm, Ertebølle, Rønbjerg, Ulbjerg, Dokkedal m.fl.
 
+<div class="parallax-container" style="background-image:url(../assets/images/skraent_flyvning.jpg)"></div>
 # Termik Flyvning
 
 Ved termikflyvning udnytter vi at opvarmet luft stiger opad. Flere gange om året arrangeres der klubture til bjergene for at dyrke denne del af sporten.
 For at flyve termikflyvning i Danmark må vi lave optræk. Med en ca. 1000 meter lang line trækker vi hinanden op i 300- 500 meters højde. Hvis vi finder termik, kan vi flyve distanceture på adskillige kilometer. Vi kan flyve året rundt, men den bedste årstid er sommeren.
+
+<div class="parallax-container" style="background-image:url(../assets/images/optraek.jpg)"></div>
 
 # Fælleskab
 
@@ -46,6 +49,6 @@ På introduktionsdagen kan du prøve udstyret og hvis vejret egner sig, få en t
 Efter introduktionsdagen kan du begynde et egentligt skolingsforløb.
 Før du starter på et skolingsforløb skal du være opmærksom på, at hvis du vil være paragliderpilot kræver det både tid og tålmodighed.
 
-For det første er vi meget afhængige af vejret, og der forekommer perioder på flere uger, hvor det er umuligt at flyve. Det sker at vi tager af sted, men må vente i timevis inden vejret arter sig, eller vi må køre hjem uden at have fløjet. For det andet må du gøre dig klart at det er din egen vilje og motivation der afgør om du får gennemført skolingsforløbet. Det tager typisk 2 år at gennemføre udannelsen fra helt ny, til pilot der kan flyve på egen hånd. 
+For det første er vi meget afhængige af vejret, og der forekommer perioder på flere uger, hvor det er umuligt at flyve. Det sker at vi tager af sted, men må vente i timevis inden vejret arter sig, eller vi må køre hjem uden at have fløjet. For det andet må du gøre dig klart at det er din egen vilje og motivation der afgør om du får gennemført skolingsforløbet. Det tager typisk 2 år at gennemføre udannelsen fra helt ny, til pilot der kan flyve på egen hånd.
 
 Her kan du læse mere om [uddannelsen](./Pilot-Uddannelsen) samt hvad du kan forvente det [koster](./Hvad-Koster-det) at dyrke paragliding.
