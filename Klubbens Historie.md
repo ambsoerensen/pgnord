@@ -3,7 +3,7 @@ title: Om klubben
 order: 0
 layout: page
 ---
-
+###### Arne Staun Sørensen - Bestyrelsesformand
 Med ca. 50 medlemmer er PGNord en af de største paragliderklubber i Danmark. Mange yder i dag en stor indsats i klubben og vi tror det er en af grundene til at vi har oplevet massiv medlemsfremgang i de senere år.
 
 Vi har i PGNord valgt at fordele de forskellige opgaver på så mange skuldre som muligt. Det er stærkt medvirkende til et godt miljø i klubben.
@@ -27,7 +27,7 @@ De termikinteresserede piloter vil prøve at sætte lidt mere fokus på optræk 
 Enkelte piloter har vist en spirende interesse for konkurrenceflyvning. Så det er muligt at vi i fremtiden vil se flere piloter fra PGNord deltage i lokale og internationale konkurrencer.
 
 # Klubbens Historie
-
+###### Mads Syndergaard - Para-Guru
 > I begyndelsen var kun mørket, men Gud sagde: Lad der blive lys! - og se, der blev lys.
 
 Helt sådan gik det ikke for sig, da paragliding kom til Nordjylland, men for mange af os der var med dengang og stadig hænger ved, var det omtrent en ligeså stor begivenhed.
@@ -38,8 +38,11 @@ I midten af firserne havde især franskmænd og schweizere for alvor kastet sig 
 
 De fik ret hurtigt skabt interessen hos et par ligesindede fra Nordjylland, nemlig Jens Munk og Jes Jørgensen, der begge sidenhen var stærkt involverede i udbredelsen af alpinsport herhjemme, Jens indenfor klatring og bjergbestigning, Jes som den der vel til dato har uddannet flest nye paragliderpiloter.
 
+![["Løkken invitational - 1999"]](../assets/images/lokken_invitational.jpg)
 ## Undfangelsen
 
 Ca. 2 1/2 år senere, i 1992 var der kommet så mange nye disciple til, at det blev besluttet at starte en klub i Nordjylland. Den stiftende generalforsamling holdt vi en hverdagsaften på Cafe RendezVous, oppe på førstesalen, og klubben kom til at hedde Paragliding Nord, eller PG Nord. Ordstyrer den aften var forøvrigt Scott Torkelsen, som nu også er bestyrelsesmedlem i Dansk Drageflyver Union.
 
 To af klubbens stiftere havde bygget et spil og skaffet en optræksbane, og på generalforsamlingen besluttede klubben at købe spillet af de to, og overtage driften af spil og optræksbane. Det oprindelige spil blev siden hen basis for en noget mere avanceret og velfungerende konstruktion, også bygger af klubbens egne medlemmer.
+
+![["Morten Schubert - medstifter"]](../assets/images/morten_stifter.jpg)

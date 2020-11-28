@@ -4,27 +4,20 @@ order: 1
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+## Formand
 
-[This is a link](#)
+Arne Staun Sørensen - 98 35 54 37 / 61 66 54 37
 
-> This is a blockquote
+## Kasserer
+Rikke Dorset - 61 69 47 56
 
-`This is code`
+## Bestyrelsesmedlemmer
+Hugo Jensen - 93 99 19 60
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+Jens Winther Hansen- 40 57 99 78
 
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+Per Nielsen - 98 28 15 00 / 21 20 81 41
+
+Scott Torkelsen - 40 54 13 12
+
+Steffen Frederiksen - 24 44 62 18
