@@ -38,11 +38,11 @@ I midten af firserne havde især franskmænd og schweizere for alvor kastet sig 
 
 De fik ret hurtigt skabt interessen hos et par ligesindede fra Nordjylland, nemlig Jens Munk og Jes Jørgensen, der begge sidenhen var stærkt involverede i udbredelsen af alpinsport herhjemme, Jens indenfor klatring og bjergbestigning, Jes som den der vel til dato har uddannet flest nye paragliderpiloter.
 
-![["Løkken invitational - 1999"]](../assets/images/lokken_invitational.jpg)
+![["Løkken invitational - 1999"]](./assets/images/lokken_invitational.jpg)
 ## Undfangelsen
 
 Ca. 2 1/2 år senere, i 1992 var der kommet så mange nye disciple til, at det blev besluttet at starte en klub i Nordjylland. Den stiftende generalforsamling holdt vi en hverdagsaften på Cafe RendezVous, oppe på førstesalen, og klubben kom til at hedde Paragliding Nord, eller PG Nord. Ordstyrer den aften var forøvrigt Scott Torkelsen, som nu også er bestyrelsesmedlem i Dansk Drageflyver Union.
 
 To af klubbens stiftere havde bygget et spil og skaffet en optræksbane, og på generalforsamlingen besluttede klubben at købe spillet af de to, og overtage driften af spil og optræksbane. Det oprindelige spil blev siden hen basis for en noget mere avanceret og velfungerende konstruktion, også bygger af klubbens egne medlemmer.
 
-![["Morten Schubert - medstifter"]](../assets/images/morten_stifter.jpg)
+![["Morten Schubert - medstifter"]](./assets/images/morten_stifter.jpg)
