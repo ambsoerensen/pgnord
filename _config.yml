@@ -15,7 +15,7 @@ site-image:
 # Keywords of the Site
 site-keywords: pg,pgnord,paragliding,paraglide,nordjylland
 # URL for the Image of custom Favicon
-favicon-url: ./assets/images/fav.png
+#not used favicon-url: /pgnord/assets/images/fav.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: ../images/pgnord_hero.jpg
