@@ -1,5 +1,5 @@
 ---
-title: Ny Pilot
+title: Hvad er paragliding?
 layout: post
 post-image:
 description: Hvordan kommer man i gang med paragliding?
@@ -8,13 +8,9 @@ tags:
   - bliv medlem
 ---
 
-# Hvad er paragliding?
-
-> En meget stor del af vores liv!
-
-Og sandt er det at alle der vælger at bruge noget tid på at lære at flyve paraglider ikke kan undgå at blive mærket af de oplevelser det giver.
+En meget stor del af vores liv! Og sandt er det at alle der vælger at bruge noget tid på at lære at flyve paraglider ikke kan undgå at blive mærket af de oplevelser det giver.
 Det er en sport man kan dyrke på det niveau man selv vælger. Lige fra den rolige turistagtige flyvning i blød stabil luft langs en dansk kystskrænt, til den mest intense termikflyvning i bjerge.
-Du får måske det bedste indtryk ved at kigge på nogle af de billeder eller filmklip, vi har lagt ind på hjemmesiden. Men oven i det kan du lægge en hel masse sanseindtryk, følelser, spænding, kammeratskab, naturoplevelser, frisk luft og meget mere.
+Du får måske det bedste indtryk ved at kigge på nogle af de billeder vi har lagt ind på hjemmesiden. Men oven i det kan du lægge en hel masse sanseindtryk, følelser, spænding, kammeratskab, naturoplevelser, frisk luft og meget mere.
 <div class="parallax-container" style="background-image:url(../assets/images/bjerg_flyvning_1.jpg)"></div>
 # Skrænt Flyvning
 
