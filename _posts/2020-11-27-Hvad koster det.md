@@ -38,4 +38,4 @@ Det er særdeles vigtigt at rådføre sig med en instruktør, inden man invester
 
 Selvom udstyret kan forekomme lidt dyrt, så er det stadigvæk den letteste og billigste måde at flyve på.
 
-Her kan du læse mere om hvad for noget [udstyr](./Paragliding-udstyr) udstyr der indgår i et paragliding sæt.
+Her kan du læse mere om hvad for noget [udstyr](./Paragliding-udstyr) der indgår i et paragliding sæt.
