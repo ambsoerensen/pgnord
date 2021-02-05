@@ -16,12 +16,9 @@ Uddannelsen i paragliding er inddelt i 4 Parapro trin. Som du kan se herunder, s
 - SafePro-Para 4: Pilot
 - SafePro-Para 5: Senior
 
-For at opnå Parapro 2, kræves en bestået teoriprøve til det pågældende trin. Derudover skal du rent praktisk kunne mestre de allermest basale flyveøvelser. Yderligere kræves der minimum 10 flyvetimer.
-
 # Teoriundervisning
 
-Der bliver som regel afholdt teoriundervisning løbende igennem uddannelsen.
-For at opnå SafePro-Para 4, kræves også bestået teoriprøver i de foregående trin.
+Der bliver som regel afholdt teoriundervisning løbende igennem uddannelsen. For at opnå SafePro-Para 4, kræves også bestået teoriprøver i de foregående trin.
 
 # Praktisksundervisning
 
