@@ -10,7 +10,7 @@ tags:
 
 # Kontingent og forsikringer
 
-Det årlige kontingent for medlemskab af PG Nord er 400 kr. Der er yderligere en obligatorisk forsikring igennem DHPU til 1050 kr der falder årligt.
+Det årlige kontingent for medlemskab af PG Nord er 400 kr. Der er yderligere en obligatorisk forsikring og medlemskab igennem DHPU til 1050 kr. der falder årligt inden 31. December.
 
 # Uddannelsen hos PG Nord
 
@@ -21,10 +21,8 @@ Prisen for et paragliderkursus er 6000,- kr. Med i prisen er følgende:
 - Undervisningsmateriale
 - Lån af skolingsudstyr frem til du har opnået 2 timers flyvning på skrænt. Herefter forventes det at du køber dit eget udstyr. (Dog kan der købes yderligere lån af udstyr)
 - Mulighed for tandemflyvning
-- Parapro 2 + Parapro 3 prøve
-- Kontingent + Forsikring for det kalenderår du starter
 
-Skolingsgebyret opkræves af to rater med 6 måneders mellemrum. Første rate er kr. 3000,- og restbeløbet falder så 6 måneder efter.
+Skolingsgebyret opkræves af to rater med 6 måneders mellemrum. Første rate er kr. 3000,- som betales inden start på skoling og restbeløbet falder så senest når du skal starte på SP-P 4.
 
 ### Eget udstyr
 
