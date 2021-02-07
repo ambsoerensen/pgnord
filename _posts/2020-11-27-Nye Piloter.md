@@ -27,6 +27,11 @@ For at flyve termikflyvning i Danmark må vi lave optræk. Med en ca. 1000 meter
 
 <div class="parallax-container" style="background-image:url(../assets/images/optraek.jpg)"></div>
 
+# Paramotor
+Paramotoring 
+
+<div class="parallax-container" style="background-image:url(../assets/images/paramotor_2.jpg)"></div>
+
 # Fælleskab
 
 Ud over oplevelserne i luften lægger vi også vægt på et godt socialt miljø i klubben.
