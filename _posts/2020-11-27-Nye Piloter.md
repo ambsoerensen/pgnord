@@ -28,7 +28,7 @@ For at flyve termikflyvning i Danmark må vi lave optræk. Med en ca. 1000 meter
 <div class="parallax-container" style="background-image:url(../assets/images/optraek.jpg)"></div>
 
 # Paramotor
-Paramotoring 
+Paramotoring er paragliding hvor man ved motorkraft kan holde sig luften. Det giver piloter mulighed for at flyve på dage og steder det ellers ikke havde være muligt at flyve. 
 
 <div class="parallax-container" style="background-image:url(../assets/images/paramotor_2.jpg)"></div>
 
