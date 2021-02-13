@@ -30,3 +30,6 @@ Skolingsforløbets længde kan variere meget. For at optimere sikkerheden og opn
 PG-Nord har en lang række energiske og erfarne instruktører der på en sikker og forsvarlig måde vil kunne give dig de nødvendige erfaringer og kundskaber. For at opnå SafePro-Para 4, kræves en bestået teoriprøve til det pågældende trin. Derudover skal du rent praktisk kunne mestre alle grundlæggende praktiske flyveøvelser. 
 
 Yderligere kræves der minimum 15 flyvetimer.
+
+# Hvad opnår jeg?
+Efter at du er certficeret para-pro 4 er du nu selvstændig pilot, dvs. har lært at flyve på egenhånd på forsvarligvis. Men rejsen slutter ikke her, efter endt uddannelse er der flere veje at gå. Man kan tage et VFR kursus hvilket giver dig mulighed for at flyve cross country i Danmark, eller tage Paramotor/trike [kursus](./PPG-Paramotor-og-Trike) for at lære paragliding ved motorkraft. og mange flere. 
