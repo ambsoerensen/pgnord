@@ -52,4 +52,4 @@ Før du starter på et skolingsforløb skal du være opmærksom på, at hvis du 
 
 For det første er vi meget afhængige af vejret, og der forekommer perioder på flere uger, hvor det er umuligt at flyve. Det sker at vi tager af sted, men må vente i timevis inden vejret arter sig, eller vi må køre hjem uden at have fløjet. For det andet må du gøre dig klart at det er din egen vilje og motivation der afgør om du får gennemført skolingsforløbet. Det tager typisk 2 år at gennemføre udannelsen fra helt ny, til pilot der kan flyve på egen hånd.
 
-Her kan du læse mere om [uddannelsen](./Pilot-Uddannelsen) samt hvad du kan forvente det [koster](./Hvad-Koster-det) at dyrke paragliding.
+Her kan du læse mere om [uddannelsen](./Pilot-Uddannelsen) samt hvad du kan forvente det [koster](./Hvad-koster-det) at dyrke paragliding.
