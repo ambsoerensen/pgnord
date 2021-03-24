@@ -28,5 +28,4 @@ Der forventes at du har alt det nødvendige udstyr når du starter på kurset.
 Der en begrænset mulighed for leje af en paramotor under kurset.
 
 ## Pris:
-### Klub medlemskab
 Klub medlemskab er påkrævet for at deltage i alle kurser. [Se aktuelle priser for kontingent og kurser her.](./Hvad-koster-det)
