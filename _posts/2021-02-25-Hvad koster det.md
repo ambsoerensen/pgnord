@@ -8,32 +8,64 @@ tags:
   - pris
 ---
 
-# Kontingent og forsikringer
+Det årlige kontingent for primært medlemskab af PG Nord er 400 kr. Der er yderligere en obligatorisk forsikring og medlemskab igennem DHPU til 1050 kr. der forfalder årligt inden 31. December.
 
-Det årlige kontingent for medlemskab af PG Nord er 400 kr. Der er yderligere en obligatorisk forsikring og medlemskab igennem DHPU til 1050 kr. der forfalder årligt inden 31. December.
+Det årlige kontingent for sekundær medlemskab af PG Nord er 400 kr. Deri er der mulighed for at deltage i optræk på banen i Skivum.
 
-# Uddannelsen hos PG Nord
+[Oversigt over priser ved Pgnord kan findes nederst på siden.](#oversigt)
 
-Prisen for et paragliderkursus er 8000,- kr. Med i prisen er følgende:
+## Bliv medlem af PG Nord
+Du kan melde dig ind i klubben ved [udfylde denne formular](https://docs.google.com/forms/d/1LQneueB2UvLvz2yGCPC9rUAYleIvc-q1L2aMoOBH0eY/edit). 
 
-- Praktisk undervisning
-- Teoriundervisning
-- Undervisningsmateriale
-- Lån af skolingsudstyr frem til du har opnået trin 3. Herefter forventes det at du køber dit eget udstyr. (Dog kan der købes yderligere lån af udstyr)
-- Mulighed for tandemflyvning
+## Kontingent og forsikringer
 
-Skolingsgebyret opkræves pr. trin 2.000 kr. som betales inden start på skoling i det pågældende trin.
+### Primært medlemskab
+Årligt kontingent på 400 kr. 
+### Sekundært Medlemskab
+Årligt kontingent på 400 kr. 
+## Pilot uddannelsen
+Prisen er 8000 kr. Skolingsgebyret opkræves pr. trin 2.000 kr. som betales inden start på skoling i det pågældende trin.
+[Du kan læse mere om pilotuddannelsen her.](./Pilot-Uddannelsen)
 
-### Eget udstyr
 
-Hvis du fra start har eget udstyr (skærm, sele, hjelm), fratrækkes 1500 kr. i skolingsgebyret.
+## Powered Paraglider kurser
 
-# Udstyr
+### Fra start - Ny pilot til powered PPG
+Kurset henvender sig til dig som vil gå direkte til Powered Paragliding.
 
-Et komplet sæt nyt paragliderudstyr koster typisk 16-25.000 kr. Mange vælger dog at købe brugt udstyr i starten, som typisk kan fås for 7-15.000 kr.
+Forudsætning: ingen.
 
-Det er særdeles vigtigt at rådføre sig med en instruktør, inden man investerer i udstyr, da nogle avancerede skærme eller meget gammelt udstyr, kan være direkte farligt for begyndere.
+Pris: 8000 kr. Kurset er indelt i 4 trin der betales seperat inden påbegyndelse.
 
-Selvom udstyret kan forekomme lidt dyrt, så er det stadigvæk den letteste og billigste måde at flyve på.
+### Overbygning - For nuværende Piloter
+Rette imod eksisterende piloter der ønsker at lære at flyve powered paraglider.
 
-Her kan du læse mere om hvad for noget [udstyr](./Paragliding-udstyr) der indgår i et paragliding sæt.
+Forudsætning: gennemført [pilot uddannelse](./Pilot-Uddannelsen). 
+
+Pris: 2500 kr.
+
+### Trike - For dem der flyver PPG idag
+Udvid dine kompetencer til at flyve med Trike. 
+
+Forudsætning: Certificeret PPG pilot.
+
+pris: 3500 kr.
+
+
+### Optræk
+pris pr. dag 100 kr. for ikke medlemmer.
+
+Betaling via MP 9281QX eller reg. nr. 5479 konto nr. 5328478
+
+
+# Oversigt
+
+|**Navn**|**Pris**|
+|DHPU medlemskab forsikring|1050 kr.|
+|Primært medlemskab|400 kr.|
+|Sekundært medlemskab|400 kr.|
+|Pilot Uddannelse|8000 kr.|
+|PPG Fra Start| 8000 kr.|
+|PPG overbygning|2500 kr.|
+|PPG Trike|3500 kr.|
+|Optræk pr.dag (Gratis for medlemmer)|100 kr.|
