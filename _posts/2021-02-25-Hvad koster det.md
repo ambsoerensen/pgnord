@@ -12,7 +12,9 @@ Det årlige kontingent for primært medlemskab af PG Nord er 400 kr. Der er yder
 
 Det årlige kontingent for sekundær medlemskab af PG Nord er 400 kr. Deri er der mulighed for at deltage i optræk på banen i Skivum.
 
-[Oversigt over priser ved Pgnord kan findes nederst på siden.](#oversigt)
+[Derudover vil der være udgifter til udstyr.](./Paragliding-udstyr)
+
+[Oversigt over priser ved PG Nord kan findes nederst på siden.](#oversigt)
 
 ## Bliv medlem af PG Nord
 Du kan melde dig ind i klubben ved [udfylde denne formular](https://docs.google.com/forms/d/1LQneueB2UvLvz2yGCPC9rUAYleIvc-q1L2aMoOBH0eY/edit). 
