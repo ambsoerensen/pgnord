@@ -10,8 +10,9 @@ tags:
 
 Det årlige kontingent for primært medlemskab af PG Nord er 400 kr. Der er yderligere en obligatorisk forsikring og medlemskab igennem DHPU til 1050 kr. der forfalder årligt inden 31. December.
 
-Det årlige kontingent for sekundær medlemskab af PG Nord er 400 kr. Deri er der mulighed for at deltage i optræk på banen i Skivum.
-[Derudover vil der være udgifter til udstyr.](./Paragliding-udstyr)
+Det årlige kontingent for sekundær medlemskab af PG Nord er 400 kr. Deri er der mulighed for at deltage i optræk på banen i Skivum. Betaling for skeundære medlemmer er via MP 9281QX eller reg. nr. 5479 konto nr. 5328478.
+
+[Udover kontingent og uddannelse vil der være udgifter til udstyr.](./Paragliding-udstyr)
 
 
 [En oversigt over priser ved PG Nord kan findes nederst på siden.](#oversigt)
