@@ -23,6 +23,9 @@ Du kan melde dig ind i klubben ved [udfylde denne formular](https://docs.google.
 Årligt kontingent på 400 kr. 
 ### Sekundært Medlemskab
 Årligt kontingent på 400 kr. 
+
+### DHPU Medlemskab og forsikring
+1050 kr. årligt. 
 ## Pilot uddannelsen
 Prisen er 8000 kr. Skolingsgebyret opkræves pr. trin 2.000 kr. som betales inden start på skoling i det pågældende trin.
 [Du kan læse mere om pilotuddannelsen her.](./Pilot-Uddannelsen)
