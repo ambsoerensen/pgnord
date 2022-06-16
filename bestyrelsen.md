@@ -9,7 +9,7 @@ layout: page
 Arne Staun Sørensen - 98 35 54 37 / 61 66 54 37
 
 ## Kasserer
-Rikke Dorset - 61 69 47 56
+Asbjørn Sørensen - 42 63 60 32
 
 ## Bestyrelsesmedlemmer
 Hugo Jensen - 93 99 19 60
