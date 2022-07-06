@@ -14,7 +14,7 @@ Asbjørn Sørensen - 42 63 60 32
 ## Bestyrelsesmedlemmer
 Hugo Jensen - 93 99 19 60
 
-Jens Winther Hansen- 40 57 99 78
+Kjeld Søndergaard
 
 Per Nielsen - 98 28 15 00 / 21 20 81 41
 

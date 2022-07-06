@@ -17,7 +17,7 @@ Hugo Jensen - 93 99 19 60
 
 Leon Rasmussen - 98 45 05 47
 
-## Hjælpeinstruktører
 Steffen Frederiksen - 24 44 62 18
 
+## Hjælpeinstruktører
 Torben Muhlig - 26 16 29 27
