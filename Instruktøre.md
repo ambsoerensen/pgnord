@@ -15,8 +15,6 @@ Flemming Andersen - 20 98 64 11
 
 Hugo Jensen - 93 99 19 60
 
-Leon Rasmussen - 98 45 05 47
-
 Steffen Frederiksen - 24 44 62 18
 
 ## Hjælpeinstruktører
