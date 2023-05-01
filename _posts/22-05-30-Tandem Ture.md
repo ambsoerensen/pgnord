@@ -12,7 +12,7 @@ tags:
 ## En stor naturoplevelse
 Vil du gerne prøve at flyve selv eller give en af dine nærmeste en stor oplevelse - så er du kommet til rette sted. 
 
-Hvis du gerne vil prøve, så skriv dig op på [dette link](https://docs.google.com/forms/d/e/1FAIpQLScb0UJqOuG0yMHp3cq-NLi_EH64-AmfayIBxhfO6t_DUFqBHA/viewform?usp=sf_link). Når du tilmelder dig til listen, så vil du blive inviteret til vores facebook side. Hvorfra vi kommunikere ud når vind og vejr tillader at flyve hvorpå kan man melde sig til. 
+Hvis du gerne vil prøve, så skriv dig op på [dette link](https://docs.google.com/forms/d/e/1FAIpQLScb0UJqOuG0yMHp3cq-NLi_EH64-AmfayIBxhfO6t_DUFqBHA/viewform?usp=sf_link). Efter du tilmeldt dig, så anmod om medlemskab af vores facebook gruppe [facebook gruppe](https://www.facebook.com/groups/98560551349). Hvorfra vi kommunikere ud når vind og vejr tillader at flyve hvorpå kan man melde sig til. 
 
 En tur koster 500 kr. og tager 15-30 minutter.
 
