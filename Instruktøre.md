@@ -7,8 +7,6 @@ layout: page
 Per Nielsen - 98 28 15 00 / 21 20 81 41
 
 ## Instruktører
-Anders Steffensen - 29 93 61 51
-
 Arne Staun Sørensen - 98 35 54 37 / 61 66 54 37
 
 Flemming Andersen - 20 98 64 11
